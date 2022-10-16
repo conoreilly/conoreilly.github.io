@@ -7,4 +7,4 @@ categories:
 ---
 My latest book is out now - just in time for Christmas!
 
-Find it on [Apple Books](https://apple.com/uk) and [Amazon](https://amazon.cu.uk)
+Find it on [Apple Books](https://apple.com/uk) and [Amazon](https://amazon.co.uk)
